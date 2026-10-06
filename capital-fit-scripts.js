@@ -219,9 +219,7 @@ function initNavigation() {
     initNavigation();
   });
 
-</script>
 
-<script>
 	/* Filter Button */
 function initBasicFilterSetupMultiMatch() {
   const transitionDelay = 300;
@@ -518,4 +516,5 @@ function initMomentumBasedHover() {
 document.addEventListener("DOMContentLoaded", () => {
   initMomentumBasedHover();
 });
+
 
