@@ -1,6 +1,5 @@
 console.log("hello");
 
-<!-- 
 function initNavigation() {
     if (!initNavigation._hasResizeListener) {
       initNavigation._hasResizeListener = true;
@@ -520,4 +519,3 @@ document.addEventListener("DOMContentLoaded", () => {
   initMomentumBasedHover();
 });
 
--->
